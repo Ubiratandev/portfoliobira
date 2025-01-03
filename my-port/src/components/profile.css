@@ -1,0 +1,35 @@
+.left-side{
+    width: 40vw;
+    height: fit-content;
+    background-color: #989898;
+    border-radius: 10px;
+    padding: 20px;
+    grid-area: left-side;
+    margin: 10px 10px 10px 10px;
+  }
+  .right-side{
+    width: 40vw;
+    height: fit-content;
+    background-color: #3f3f3f;
+    border-radius: 10px;
+    padding: 20px;
+    grid-area: right-side;
+    margin: 10px 10px 10px 10px;
+  }
+  .foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .about {
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .about-content {
+    margin-top: 10px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+  }
+  
